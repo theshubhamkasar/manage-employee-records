@@ -1,0 +1,7 @@
+![manage-employee-records-1](https://github.com/user-attachments/assets/0bad391c-f162-44e9-9890-1de051e42304)
+![manage-employee-records-3](https://github.com/user-attachments/assets/ff3143f7-e98a-43ef-a72a-720e6fa5ff64)
+![manage-employee-records-2](https://github.com/user-attachments/assets/a7f06eba-d129-4b62-a848-05d28762e3dd)
+![manage-employee-records-4](https://github.com/user-attachments/assets/cd2a8345-ff1f-4096-b391-e05f572cb019)
+![manage-employee-records-5](https://github.com/user-attachments/assets/04b38d11-41b2-4866-984a-7ccb63c42275)
+![manage-employee-records-6](https://github.com/user-attachments/assets/5ba0304e-41a5-4366-bcf5-b81186312ebc)
+![manage-employee-records-7](https://github.com/user-attachments/assets/9cda5375-b913-465f-9532-7554682244d5)

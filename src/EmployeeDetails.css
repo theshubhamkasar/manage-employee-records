@@ -1,0 +1,27 @@
+.container {
+  margin-top: 2rem;
+}
+
+.card {
+  border-radius: 10px;
+}
+
+.card-header {
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+.img-fluid {
+  border: 3px solid #007bff;
+  padding: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+dl.row dt {
+  font-weight: bold;
+  color: #343a40;
+}
+
+dl.row dd {
+  margin-bottom: 1rem;
+}

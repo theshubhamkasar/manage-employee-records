@@ -1,0 +1,14 @@
+.add-container .container {
+    max-width: 500px; 
+    margin: 0 auto; 
+  }
+  
+  .add-container .form-control,
+  .form-select {
+    width: 100%; 
+  }
+  
+  .add-container .form-label {
+    display: block; 
+  }
+  
